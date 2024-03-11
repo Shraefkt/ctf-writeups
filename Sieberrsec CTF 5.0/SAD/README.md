@@ -12,7 +12,8 @@ Given Files:
 * [sad](sad)
 * [chall.c](chall.c)
 * [libc](libc6_2.35-0ubuntu3.6_amd64.so)
-* [dynamic linker]()
+* [dynamic linker](ld.so)
+* [solve.py](solve.py)
 
 This was the first challenge I ever wrote for a ctf and I hope the players enjoyed it. Here is my intented solution and it also happens to be my first ever writeups so I apologise in advance if it is unclear.
 
